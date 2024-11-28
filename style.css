@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #ffffff;
+}
+
+#navigation::hover{
+    color: #FF1493;
+}
+
+.profile{
+    align-items: center;
+}
